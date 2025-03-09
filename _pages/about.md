@@ -14,6 +14,68 @@ My research interests include Large Language Model, Model Compression, Diffusion
 
 # Publications
 
+<div class="publication-container">
+  <!-- 单个论文条目 -->
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/AdaSVD_Overview.png" alt="Flow of Reasoning Pipeline">
+    </div>
+    <div class="publication-content">
+      <strong>AdaSVD: Adaptive Singular Value Decomposition for Large Language Models</strong><br>
+      Zhiteng Li, Mingyuan Xia, <span class="name-underline">Jingyuan Zhang</span>, Zheng Hui, Linghe Kong, Yulun Zhang, Xiaokang Yang<br>
+      <em>Arxiv Preprint</em><br>
+      [<a href="https://arxiv.org/abs/2502.01403">Paper</a>] [<a href="https://github.com/ZHITENGLI/AdaSVD/tree/v1">Code</a>]
+    </div>
+  </div>
+</div>
+
+
+<style>
+.publication-container {
+  width: 100%;
+}
+
+.publication-item {
+  display: flex;
+  margin-bottom: 30px;
+  align-items: flex-start;
+  gap: 20px; /* 新增间距控制 */
+}
+
+.publication-image {
+  flex: 0 0 200px;  /* 修正语法错误 */
+  min-width: 200px; /* 确保最小宽度 */
+}
+
+.publication-image img {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  object-fit: contain; /* 防止图片变形 */
+}
+
+.publication-content {
+  flex: 1;
+  line-height: 1.6;
+  min-width: 300px; /* 防止文字区域过窄 */
+}
+
+.name-underline {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) { /* 修正媒体查询语法 */
+  .publication-item {
+    flex-direction: column;
+  }
+  .publication-image {
+    width: 100%;
+    flex: none;
+  }
+}
+</style>
+
 
 
 
