@@ -44,7 +44,7 @@ My research interests include Large Language Model, Model Compression, Diffusion
 
 .publication-image {
   flex: 0 0 200px;  /* 修正语法错误 */
-  min-width: 200px; /* 确保最小宽度 */
+  min-width: 300px; /* 确保最小宽度 */
 }
 
 .publication-image img {
