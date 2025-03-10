@@ -32,12 +32,9 @@ My research interests include Large Language Model, Model Compression, Diffusion
 
 # Awards and Honors
 
-National Scholarship (2024)
-
-Sheng Family Scholarship (2024, 2023)
-
-Excellent Undergraduate Scholarship (2024, 2023)
-
+National Scholarship (2024) \
+Sheng Family Scholarship (2024, 2023) \
+Excellent Undergraduate Scholarship (2024, 2023) \
 Merit Student of Shanghai Jiao Tong University (2024, 2023)
 
 
