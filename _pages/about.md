@@ -85,7 +85,7 @@ Merit Student of Shanghai Jiao Tong University (2024, 2023)
 }
 </style>
 
-<div id="clustr_globe_container" style="width: 200px; height: 200px; overflow: hidden;">
+<div id="clustr_globe_container" style="width: 200px; height: 200px; overflow: hidden; transform-origin: center;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7NVePNTKNRmYxfLqOrZjaIITlRe5EUKqqXmw3sPoOi4"></script>
 </div>
 
