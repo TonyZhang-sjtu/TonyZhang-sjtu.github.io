@@ -22,7 +22,7 @@ My research interests include Large Language Model, Model Compression, Diffusion
     </div>
     <div class="publication-content">
       <strong>AdaSVD: Adaptive Singular Value Decomposition for Large Language Models</strong><br>
-      Zhiteng Li, Mingyuan Xia, <span class="name-underline">Jingyuan Zhang</span>, Zheng Hui, Linghe Kong, Yulun Zhang, Xiaokang Yang<br>
+      Zhiteng Li<sup>*</sup>, Mingyuan Xia<sup>*</sup>, <span class="name-underline">Jingyuan Zhang</span>, Zheng Hui, Linghe Kong, Yulun Zhang, Xiaokang Yang<br>
       <em>Arxiv Preprint</em><br>
       [<a href="https://arxiv.org/abs/2502.01403">Paper</a>] [<a href="https://github.com/ZHITENGLI/AdaSVD/tree/v1">Code</a>]
     </div>
@@ -63,6 +63,7 @@ My research interests include Large Language Model, Model Compression, Diffusion
 .name-underline {
   font-style: italic;
   text-decoration: underline;
+  font-weight: bold;
 }
 
 @media (max-width: 768px) { /* 修正媒体查询语法 */
