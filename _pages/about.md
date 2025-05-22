@@ -18,13 +18,13 @@ My research interests include Large Language Model, Model Compression, Diffusion
   <!-- 单个论文条目 -->
   <div class="publication-item">
     <div class="publication-image">
-      <img src="/images/AdaSVD_Overview.png" alt="Flow of Reasoning Pipeline">
+      <img src="/images/MiM-MU-Overview.png" alt="Flow of Reasoning Pipeline">
     </div>
     <div class="publication-content">
-      <strong>AdaSVD: Adaptive Singular Value Decomposition for Large Language Models</strong><br>
-      Zhiteng Li<sup>*</sup>, Mingyuan Xia<sup>*</sup>, <span class="name-underline">Jingyuan Zhang</span>, Zheng Hui, Linghe Kong, Yulun Zhang, Xiaokang Yang<br>
-      <em>Arxiv Preprint</em><br>
-      [<a href="https://arxiv.org/abs/2502.01403">Paper</a>] [<a href="https://github.com/ZHITENGLI/AdaSVD/tree/v1">Code</a>]
+      <strong>Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information</strong><br>
+      Xinwen Cheng, <span class="name-underline">Jingyuan Zhang</span>, Zhehao Huang, Yingwen Wu, Xiaolin Huang<br>
+      <em>2025 Arxiv Preprint</em><br>
+      [<a href=" ">Paper</a>] [<a href=" ">Code</a>]
     </div>
   </div>
 </div>
@@ -34,16 +34,17 @@ My research interests include Large Language Model, Model Compression, Diffusion
   <!-- 单个论文条目 -->
   <div class="publication-item">
     <div class="publication-image">
-      <img src="/images/MiM-MU-Overview.png" alt="Flow of Reasoning Pipeline">
+      <img src="/images/AdaSVD_Overview.png" alt="Flow of Reasoning Pipeline">
     </div>
     <div class="publication-content">
-      <strong>Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information</strong><br>
-      Xinwen Cheng, <span class="name-underline">Jingyuan Zhang</span>, Zhehao Huang, Yingwen Wu, Xiaolin Huang<br>
-      <em>Arxiv Preprint</em><br>
-      [<a href=" ">Paper</a>] [<a href=" ">Code</a>]
+      <strong>AdaSVD: Adaptive Singular Value Decomposition for Large Language Models</strong><br>
+      Zhiteng Li<sup>*</sup>, Mingyuan Xia<sup>*</sup>, <span class="name-underline">Jingyuan Zhang</span>, Zheng Hui, Linghe Kong, Yulun Zhang, Xiaokang Yang<br>
+      <em>2025 Arxiv Preprint</em><br>
+      [<a href="https://arxiv.org/abs/2502.01403">Paper</a>] [<a href="https://github.com/ZHITENGLI/AdaSVD/tree/v1">Code</a>]
     </div>
   </div>
 </div>
+
 
 
 # Awards and Honors
