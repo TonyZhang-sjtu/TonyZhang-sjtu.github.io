@@ -30,6 +30,22 @@ My research interests include Large Language Model, Model Compression, Diffusion
 </div>
 
 
+<div class="publication-container">
+  <!-- 单个论文条目 -->
+  <div class="publication-item">
+    <div class="publication-image">
+      <img src="/images/MiM-MU-Overview.png" alt="Flow of Reasoning Pipeline">
+    </div>
+    <div class="publication-content">
+      <strong>Compensation-free Machine Unlearning in Text-to-Image Diffusion Models by Eliminating the Mutual Information</strong><br>
+      Xinwen Cheng, <span class="name-underline">Jingyuan Zhang</span>, Zhehao Huang, Yingwen Wu, Xiaolin Huang<br>
+      <em>Arxiv Preprint</em><br>
+      [<a href=" ">Paper</a>] [<a href=" ">Code</a>]
+    </div>
+  </div>
+</div>
+
+
 # Awards and Honors
 
 National Scholarship (2024) \
